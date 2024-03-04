@@ -24,7 +24,7 @@ This project is a responsive and dynamic web application crafted using HTML, CSS
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/hithaishisurendra/e-commerce-website.git`
 2. Open `index.html` in your preferred web browser.
 
 
