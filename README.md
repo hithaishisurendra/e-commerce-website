@@ -14,6 +14,10 @@ This project is a responsive and dynamic web application crafted using HTML, CSS
 
 - **Dynamic Content:** The site incorporates JavaScript for dynamic and interactive features, enhancing the overall user experience.
 
+<img width="1440" alt="Screenshot 2024-03-04 at 3 11 08 PM" src="https://github.com/hithaishisurendra/e-commerce-website/assets/114680442/868b7a70-851a-461f-95f3-7f876132381d">
+
+<img width="410" alt="Screenshot 2024-03-04 at 3 38 59 PM" src="https://github.com/hithaishisurendra/e-commerce-website/assets/114680442/f1e17408-b557-4c46-9c94-0afb1bceac34">
+
 ## Technologies Used
 
 - HTML: Structure and layout of the web pages.
